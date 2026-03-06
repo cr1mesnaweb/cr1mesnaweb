@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f172a&height=180&section=header&text=Ayato&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f172a&height=180&section=header&text=Alvin11&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">FullStack Developer</h1>
@@ -7,17 +7,6 @@
 <p align="center">
   Building scalable systems, automations and modern web applications.
 </p>
-
-<p align="center">
-  <a href="https://github.com/SEUUSERNAME">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/SEULINK">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -65,14 +54,6 @@ FullStack developer focused on back-end architecture, automation tools, APIs and
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
