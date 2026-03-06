@@ -47,21 +47,11 @@ FullStack developer focused on back-end architecture, automation tools, APIs and
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&style=for-the-badge&color=22c55e" />
+  <img src="https://komarev.com/ghpvc/?cr1mesnaweb=CR1MESNAWEB&style=for-the-badge&color=22c55e" />
 </p>
 
 ---
