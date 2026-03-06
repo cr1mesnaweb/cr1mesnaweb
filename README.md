@@ -47,13 +47,6 @@ FullStack developer focused on back-end architecture, automation tools, APIs and
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
 </p>
 
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?cr1mesnaweb=CR1MESNAWEB&style=for-the-badge&color=22c55e" />
-</p>
-
 ---
 
 ## 📌 Main Projects
